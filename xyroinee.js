@@ -739,11 +739,11 @@ teks = `*「 Donasi Untuk Clara 」*
 _*Kamu Ingin Premium/Sewa Di Bot Ini? Caranya Mudah Kok, Kamu Cukup Donasi Untuk Perkembangan Bot Ini, Oya Dengan Donasi Kamu Bakal Dapet Premium Dan Boleh Mengundang Bot Ke Satu Grup Kamu Selama Satu Bulan >,<. Gimana? Tertarik? Jika Tertarik Silahkan Donasi Di Bawah, Minimal 10K Ya Xixixi*_ ~
 
 ❏──「 *Sewa* 」
-│• *Ovo:* 089610750607
+│• *Ovo:*-
 │• *Dana:* -
 │• *Gopay:* -
-│• *Saweria:* https://saweria.co/zeltoria
-│• *Trakteer:* https://trakteer.id/zeltoria
+│• *Saweria:* https://saweria.co/nightyPro
+│• *Trakteer:* https://trakteer.id/nighty-pro-cr1gg/tip?quantity=1
 ❏──────────────\\
 `
 Clara.sendMessage(from, { image: donasinya, caption: teks}, { quoted: m})
